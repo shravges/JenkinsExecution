@@ -14,6 +14,12 @@ public class TestClass {
 	{
 		System.out.println("This is hello for jenkins maven execution from display method");
 	}
+	
+	@Test
+	public void addedNewMethod()
+	{
+		System.out.println("This is hello for jenkins maven execution from added new method");
+	}
 
 
 }
