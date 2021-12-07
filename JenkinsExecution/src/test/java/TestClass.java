@@ -20,6 +20,12 @@ public class TestClass {
 	{
 		System.out.println("This is hello for jenkins maven execution from added new method");
 	}
+	
+	@Test
+	public void emailNotification()
+	{
+		System.out.println("This is email notification");
+	}
 
 
 }
