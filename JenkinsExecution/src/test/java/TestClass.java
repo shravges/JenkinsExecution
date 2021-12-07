@@ -24,7 +24,7 @@ public class TestClass {
 	@Test
 	public void emailNotification()
 	{
-		System.out.println("This is email notification!!");
+		System.out.println("This is email notification--!!");
 	}
 
 
